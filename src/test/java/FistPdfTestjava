@@ -1,0 +1,13 @@
+package fr.esir.mdi.ci.tpmaven;
+import java.io.*;
+import junit.framework.*;
+
+public class FirstPdf extends testCase {
+    public void test (){
+        
+    }
+}
+
+public void FirstPdfTest{
+
+}
